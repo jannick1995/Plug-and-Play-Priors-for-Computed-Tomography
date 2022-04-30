@@ -8,7 +8,7 @@ The TVReg implementation found in -- link to github
 
 The implementation of the BM3D denoiser: https://webpages.tuni.fi/foi/GCF-BM3D/index.html#ref_software 
 
-The implementation of the DnCNN denoiser: link to github 
+The implementation of the DnCNN denoiser: https://github.com/cszn/DnCNN 
 
 Note that the scripts presented in this git has paths made to these packages from within the Author's computer. Thus depending on what you name the packages and where you store them, you might need to change the paths.
 
