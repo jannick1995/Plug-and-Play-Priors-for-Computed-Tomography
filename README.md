@@ -1,6 +1,6 @@
 # Plug-and-Play-Priors-for-Computed-Tomography
 
-This Git contains all the codes (scripts and algorithms) that were developed in the Msc project Plug-and-Play Priors for Computed Tomography. Note that in order to fully use all the scripts and algorithms, this requires certain software packages to be installed. The following functions/packages are needed in order to run everything within this Git:
+This Git contains all the codes (scripts and algorithms) developed in the MSc project Plug-and-Play Priors for Computed Tomography. Note that using all the scripts and algorithms fully requires specific software packages to be installed. The following functions/packages are needed to run everything within this Git:
 
 paralleltomo from the AIRTools II package - link to github
 
