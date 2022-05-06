@@ -1,10 +1,10 @@
 # Plug-and-Play-Priors-for-Computed-Tomography
 
-This Git contains all the codes (scripts and algorithms) developed in the MSc project Plug-and-Play Priors for Computed Tomography. Note that using all the scripts and algorithms fully requires specific software packages to be installed. The following functions/packages are needed to run everything within this Git:
+This Git contains all the codes (scripts and algorithms) developed in the MSc project Plug-and-Play Priors for Computed Tomography. Note that using all the scripts and algorithms requires specific software packages to be installed. The following functions/packages are needed to run everything within this Git:
 
-paralleltomo from the AIRTools II package - link to github
+paralleltomo, phantomgallery and fbp from the AIRTools II package: https://github.com/jakobsj/AIRToolsII
 
-The TVReg implementation found in -- link to github
+The TVReg software: https://github.com/jakobsj/TVReg
 
 The implementation of the BM3D denoiser: https://webpages.tuni.fi/foi/GCF-BM3D/index.html#ref_software 
 
