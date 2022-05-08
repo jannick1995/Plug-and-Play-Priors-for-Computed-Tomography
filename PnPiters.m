@@ -72,6 +72,7 @@ save('PnPiters.mat')
 
 %% Loadthe data
 
+addpath 'Experiments';
 load('PnPiters.mat')
 
 %% RMSE plots over the iterations
