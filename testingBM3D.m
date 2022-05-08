@@ -8,7 +8,7 @@
 % unnecessarily large denoising strength yielding poor reconstructions.
 
 % Add path to the BM3D function
-addpath 'plug-and-play-priors-master/DenoisingAlgos/BM3Dnew/bm3d/';
+addpath 'BM3D/bm3d/';
 
 N = 64;
 X = phantom(N);
