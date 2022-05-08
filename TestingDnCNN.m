@@ -6,8 +6,8 @@
 % pre-trained denoising strengths.
 
 % Add path to the DnCNN networks
-addpath 'DnCNN-master/model/specifics/';
-addpath 'DnCNN-master/utilities/';
+addpath 'DnCNN/model/specifics/';
+addpath 'DnCNN/utilities/';
 
 N = 64;
 X = phantom(N);
