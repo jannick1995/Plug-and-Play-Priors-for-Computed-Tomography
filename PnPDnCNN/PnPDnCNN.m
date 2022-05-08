@@ -60,12 +60,12 @@ function [x, z, u, info] = PnPDnCNN(A, b, eta, sigma, opt)
 %
 %                 u update at each iteration                    (u)
 %
-% Author: Jannick Jørgensen Lønver
+% Author: Jannick JÃ¸rgensen LÃ¸nver
 
-% Set path to DnCNN-master
-addpath 'DnCNN-master/utilities';
-addpath 'DnCNN-master/model';
-addpath 'DnCNN-master/model/specifics';
+% Set path to DnCNN
+addpath 'DnCNN/utilities';
+addpath 'DnCNN/model';
+addpath 'DnCNN/model/specifics';
 
 % Check if sigma is a proper noise level
 if sum(sigma == 10:5:75) ~= 1
