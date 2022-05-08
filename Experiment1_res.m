@@ -1,7 +1,7 @@
 %% Experiment 1 using 256 projections (similar geometry)
 
 % Add path to the results
-addpath 'Experiments/ProjData';
+addpath 'Experiments';
 
 % Load the results obtained
 load('Experiment1_TV.mat')
