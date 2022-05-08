@@ -68,7 +68,7 @@ hold off
 idx_noise = 3;
 
 % Index to choose what denoising strengths to consider
-[~,I] = min(perf(2,:,idx_noise));
+[~,I] = min(perf(:,idx_noise));
 idx_sigma = [1, 10, 20, 40, 80, 100];
 
 figure (1)
