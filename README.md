@@ -12,6 +12,6 @@ The implementation of the BM3D denoiser: https://webpages.tuni.fi/foi/GCF-BM3D/i
 
 The implementation of the DnCNN denoiser: https://github.com/cszn/DnCNN 
 
-Note that the scripts presented in this git has paths made to these packages from within the Author's computer. Thus depending on what you name the packages and where you store them, you might need to change the paths.
+Note: Certain files were too large to upload so they be downloaded manually from Dropbox: https://www.dropbox.com/sh/qs8y9cugjfl63ak/AADp-WEAjBKfUeliAox02Grwa?dl=0
 
 Any questions regarding the codes or the setup can be sent to my email: jannick.jjl@hotmail.com
