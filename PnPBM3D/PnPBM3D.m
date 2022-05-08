@@ -55,10 +55,10 @@ function [x, z, u, info] = PnPBM3D(A, b, lambda, rho, opt)
 %
 %                 Iterations used to obtain the solution        (iters)
 %
-% Author: Jannick Jørgensen Lønver
+% Author: Jannick JÃ¸rgensen LÃ¸nver
 
 % Set path to the BM3D function 
-addpath plug-and-play-priors-master/DenoisingAlgos/BM3Dnew/bm3d;
+addpath BM3D/bm3d;
 
 t_start = tic;
 
