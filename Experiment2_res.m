@@ -7,13 +7,6 @@ load('Experiment2_TV.mat')
 load('Experiment2_BM3D.mat')
 load('Experiment2_DnCNN.mat')
 
-
-% Convert the arrays containing PnP-DnCNN into one
-% XDnCNN = zeros(N*N,length(sigma_train),length(eta),3);
-% XDnCNN(:,:,:,1) = XDnCNN_p1;
-% XDnCNN(:,:,:,2) = XDnCNN_p2;
-% XDnCNN(:,:,:,3) = XDnCNN_p3;
-
 proj = [256, 64, 16];
 
 % Construct FBP for each configuration
