@@ -77,6 +77,7 @@ save('PnPInitEst.mat')
 
 %% Load the data
 
+addpath 'Experiments';
 load('PnPInitEst.mat')
 
 %% RMSE plots over the iterations
