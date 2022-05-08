@@ -2,9 +2,9 @@
 
 % Add path to the needed algorithms
 addpath 'TVregADMM';
-addpath 'DnCNN-master/model/specifics/';
-addpath 'DnCNN-master/utilities/'; 
-addpath 'plug-and-play-priors-master/DenoisingAlgos/BM3Dnew/bm3d/';
+addpath 'DnCNN/model/specifics/';
+addpath 'DnCNN/utilities/'; 
+addpath 'BM3D/bm3d/';
 
 % addpath 'TVregADMM';
 % addpath 'DnCNN/model/specifics/'
